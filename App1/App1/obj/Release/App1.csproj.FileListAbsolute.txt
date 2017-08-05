@@ -1,0 +1,14 @@
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\App1.dll
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\App1.pdb
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\samed\Desktop\App1\App1\App1\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\samed\Desktop\App1\App1\App1\obj\Release\App1.MainPage.xaml.g.cs
+C:\Users\samed\Desktop\App1\App1\App1\obj\Release\App1.App.xaml.g.cs
+C:\Users\samed\Desktop\App1\App1\App1\obj\Release\App1.dll
+C:\Users\samed\Desktop\App1\App1\App1\obj\Release\App1.pdb
