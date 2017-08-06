@@ -1,0 +1,14 @@
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\obj\Debug\simpbook.MainPage.xaml.g.cs
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\obj\Debug\simpbook.App.xaml.g.cs
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\simpbook.dll
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\simpbook.pdb
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\obj\Debug\simpbook.dll
+C:\Users\samed\Desktop\simpbook\simpbook\simpbook\obj\Debug\simpbook.pdb
