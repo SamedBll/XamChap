@@ -1,0 +1,15 @@
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Clock.dll
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\samed\Desktop\Clock\Clock\Clock\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\samed\Desktop\Clock\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\samed\Desktop\Clock\Clock\Clock\obj\Debug\Clock.MainPage.xaml.g.cs
+C:\Users\samed\Desktop\Clock\Clock\Clock\obj\Debug\Clock.App.xaml.g.cs
+C:\Users\samed\Desktop\Clock\Clock\Clock\obj\Debug\Clock.dll
+C:\Users\samed\Desktop\Clock\Clock\Clock\obj\Debug\Clock.pdb
