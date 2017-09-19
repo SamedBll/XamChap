@@ -1,0 +1,14 @@
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Erisim.dll
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Erisim.pdb
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\obj\Debug\Erisim.MainPage.xaml.g.cs
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\obj\Debug\Erisim.App.xaml.g.cs
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\obj\Debug\Erisim.dll
+C:\Users\samed\Desktop\Erisim\Erisim\Erisim\obj\Debug\Erisim.pdb
